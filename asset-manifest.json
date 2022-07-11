@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tap-god/static/css/main.afdb5dea.css",
+    "main.js": "/tap-god/static/js/main.f27028c0.js",
+    "static/media/round-end-sound.wav": "/tap-god/static/media/round-end-sound.397db65270e0622ff5c9.wav",
+    "static/media/pop-sound.wav": "/tap-god/static/media/pop-sound.90329493ac50795f809f.wav",
+    "static/media/ouch-sound.mp3": "/tap-god/static/media/ouch-sound.65d0a18807864915f153.mp3",
+    "static/media/balloon-red.png": "/tap-god/static/media/balloon-red.acf07141051f7e384ce3.png",
+    "static/media/balloon-pop.png": "/tap-god/static/media/balloon-pop.073cf8bc94b27dc23def.png",
+    "index.html": "/tap-god/index.html",
+    "main.afdb5dea.css.map": "/tap-god/static/css/main.afdb5dea.css.map",
+    "main.f27028c0.js.map": "/tap-god/static/js/main.f27028c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdb5dea.css",
+    "static/js/main.f27028c0.js"
+  ]
+}
